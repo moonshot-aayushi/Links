@@ -24,8 +24,8 @@ body {
 }
 
 .circle-shape {
-	width: 140px;
-	height: 140px;
+	width: 200px;
+	height: 200px;
 	position: relative;
 	overflow: hidden;
 	border-radius: 50%;
